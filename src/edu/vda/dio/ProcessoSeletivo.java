@@ -1,4 +1,4 @@
-package candidatura;
+package edu.vda.dio;
 
 import java.util.Random;
 import java.util.concurrent.ThreadLocalRandom;
