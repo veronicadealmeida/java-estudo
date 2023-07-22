@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="adicona exercícios da imersão fiap">
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="adicona projeto ao github">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/desafios/PedraPapelAtaqueAereo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,12 +78,30 @@
       <option name="project" value="LOCAL" />
       <updated>1689995519200</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adicona exercícios da imersão fiap">
+      <created>1690035914408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690035914408</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cria programa SmartTv" />
     <MESSAGE value="adicona exercícios da imersão fiap" />
     <option name="LAST_COMMIT_MESSAGE" value="adicona exercícios da imersão fiap" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/vda/desafios/PedraPapelAtaqueAereo.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
