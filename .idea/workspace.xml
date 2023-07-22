@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="adicona exercícios da imersão fiap">
-      <change beforePath="$PROJECT_DIR$/src/edu/vda/fiap/_01_VerificaSeNumeroEhPositivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/vda/fiap/_01_VerificaSeNumeroEhPositivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689995438686</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adicona exercícios da imersão fiap">
+      <created>1689995519200</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689995519200</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
