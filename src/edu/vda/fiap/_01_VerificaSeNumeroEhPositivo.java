@@ -6,7 +6,7 @@ public class _01_VerificaSeNumeroEhPositivo {
     public static void main(String[] args) {
 
         int numeroInformadoPeloUsuario;
-        String mensagem = "";
+        String mensagem = " ";
 
         Scanner leitor = new Scanner(System.in);
         System.out.println("Informe um número inteiro e verifique se ele é positivo ou negativo");
