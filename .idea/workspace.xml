@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="adicona projeto ao github">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/desafios/PedraPapelAtaqueAereo.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="adicona classe PedraPapelAtaqueAereo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,13 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690035914408</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adicona classe PedraPapelAtaqueAereo">
+      <created>1690040568630</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690040568630</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cria programa SmartTv" />
     <MESSAGE value="adicona exercícios da imersão fiap" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicona exercícios da imersão fiap" />
+    <MESSAGE value="adicona classe PedraPapelAtaqueAereo" />
+    <option name="LAST_COMMIT_MESSAGE" value="adicona classe PedraPapelAtaqueAereo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
