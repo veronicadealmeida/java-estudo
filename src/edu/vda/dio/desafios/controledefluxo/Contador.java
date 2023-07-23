@@ -1,4 +1,4 @@
-package edu.vda.desafios.controledefluxo;
+package edu.vda.dio.desafios.controledefluxo;
 
 import java.util.Scanner;
 

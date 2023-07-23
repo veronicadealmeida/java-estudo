@@ -1,4 +1,4 @@
-package edu.vda.desafios;
+package edu.vda.dio.desafios;
 import java.util.*;
 public class PedraPapelAtaqueAereo {
     public static void main(String[] args) {

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="ajusta a classe ProcessoSeletivo">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/desafios/controledefluxo/Contador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/desafios/controledefluxo/ParametrosInvalidosException.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="cria a classe Contador">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/VDA/workspace/estudo-java/java-estudo/src/edu/vda/fiap"
   }
 }]]></component>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690047948335</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="cria a classe Contador">
+      <created>1690050196936</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690050196936</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,7 +121,8 @@
     <MESSAGE value="adicona exercícios da imersão fiap" />
     <MESSAGE value="adicona classe PedraPapelAtaqueAereo" />
     <MESSAGE value="ajusta a classe ProcessoSeletivo" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajusta a classe ProcessoSeletivo" />
+    <MESSAGE value="cria a classe Contador" />
+    <option name="LAST_COMMIT_MESSAGE" value="cria a classe Contador" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
