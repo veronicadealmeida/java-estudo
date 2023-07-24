@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="organiza packages da dio">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/lendoepulandonomes/LendoEPulandoNomes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/mjolnir/Mjolnir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/atribuicaoreferencia/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/atribuicaoreferencia/MeuObjeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/pilha/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/pilha/No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/pilha/Pilha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/projetono/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/projetono/No.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="estrutura de dados - pilha">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/banco/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/banco/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/banco/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/banco/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/banco/ContaPoupanca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/banco/IConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/banco/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/vda/smarttv/SmartTv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/smarttv/SmartTv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/vda/smarttv/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/smarttv/Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2SuRQJxmphokltcDpKN7QjQpEx8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -131,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690154789481</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="estrutura de dados - pilha">
+      <created>1690197748806</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690197748806</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -141,7 +146,8 @@
     <MESSAGE value="ajusta a classe ProcessoSeletivo" />
     <MESSAGE value="cria a classe Contador" />
     <MESSAGE value="organiza packages da dio" />
-    <option name="LAST_COMMIT_MESSAGE" value="organiza packages da dio" />
+    <MESSAGE value="estrutura de dados - pilha" />
+    <option name="LAST_COMMIT_MESSAGE" value="estrutura de dados - pilha" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
