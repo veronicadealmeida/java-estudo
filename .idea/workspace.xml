@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="cria a classe Contador">
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="organiza packages da dio">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/lendoepulandonomes/LendoEPulandoNomes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/mjolnir/Mjolnir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/atribuicaoreferencia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/atribuicaoreferencia/MeuObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/pilha/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/pilha/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/pilha/Pilha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/projetono/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/projetono/No.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/vda/smarttv/SmartTv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/smarttv/SmartTv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/vda/smarttv/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/vda/dio/exemplos/smarttv/Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690050196936</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="organiza packages da dio">
+      <created>1690154789481</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690154789481</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,13 +140,14 @@
     <MESSAGE value="adicona classe PedraPapelAtaqueAereo" />
     <MESSAGE value="ajusta a classe ProcessoSeletivo" />
     <MESSAGE value="cria a classe Contador" />
-    <option name="LAST_COMMIT_MESSAGE" value="cria a classe Contador" />
+    <MESSAGE value="organiza packages da dio" />
+    <option name="LAST_COMMIT_MESSAGE" value="organiza packages da dio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/edu/vda/desafios/PedraPapelAtaqueAereo.java</url>
+          <url>file://$PROJECT_DIR$/src/edu/vda/dio/desafios/PedraPapelAtaqueAereo.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

@@ -1,4 +1,4 @@
-package edu.vda.smarttv;
+package edu.vda.dio.exemplos.smarttv;
 
 public class SmartTv {
     boolean ligada = false;

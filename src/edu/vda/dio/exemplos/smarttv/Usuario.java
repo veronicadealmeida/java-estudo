@@ -1,4 +1,4 @@
-package edu.vda.smarttv;
+package edu.vda.dio.exemplos.smarttv;
 
 //Vamos criar um exemplo de uma classe para representar uma SartTv onde:
 //    1. Ela tenha as características: ligada (boolean), canal (int) e volume (int)
