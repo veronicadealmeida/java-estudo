@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="correção do desafio">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/equalsehashcode/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/equalsehashcode/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/queue/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/queue/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/stack/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/stack/Main.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="estrutura de dados - queue, stack, equals e hashcode">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/list/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/list/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690288683142</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="estrutura de dados - queue, stack, equals e hashcode">
+      <created>1690455745431</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1690455745431</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,7 +186,8 @@
     <MESSAGE value="cria projeto Banco" />
     <MESSAGE value="desafio poo dio" />
     <MESSAGE value="correção do desafio" />
-    <option name="LAST_COMMIT_MESSAGE" value="correção do desafio" />
+    <MESSAGE value="estrutura de dados - queue, stack, equals e hashcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="estrutura de dados - queue, stack, equals e hashcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
