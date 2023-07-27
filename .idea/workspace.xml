@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="estrutura de dados - queue, stack, equals e hashcode">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/list/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/list/Main.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="estrutura de dados - List">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/set/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/set/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/list/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/list/Carro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690455745431</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="estrutura de dados - List">
+      <created>1690458710663</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1690458710663</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,7 +195,8 @@
     <MESSAGE value="desafio poo dio" />
     <MESSAGE value="correção do desafio" />
     <MESSAGE value="estrutura de dados - queue, stack, equals e hashcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="estrutura de dados - queue, stack, equals e hashcode" />
+    <MESSAGE value="estrutura de dados - List" />
+    <option name="LAST_COMMIT_MESSAGE" value="estrutura de dados - List" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

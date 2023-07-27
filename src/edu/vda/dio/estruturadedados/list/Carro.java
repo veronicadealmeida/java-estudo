@@ -3,6 +3,7 @@ package edu.vda.dio.estruturadedados.list;
 import java.util.Objects;
 
 public class Carro {
+
     String marca;
 
     public Carro(String marca) {
@@ -28,12 +29,5 @@ public class Carro {
     @Override
     public int hashCode() {
         return Objects.hash(marca);
-    }
-
-    @Override
-    public String toString() {
-        return "Carro {" +
-                "marca='" + marca + '\'' +
-                '}';
     }
 }
