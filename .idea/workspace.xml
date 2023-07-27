@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="cria projeto Banco">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/poodio/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/poodio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/poodio/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/poodio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/poodio/dominio/Dev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/poodio/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="correção do desafio">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/equalsehashcode/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/equalsehashcode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/queue/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/stack/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/stack/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/vda/dio/desafios/PedraPapelAtaqueAereo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/PedraPapelAtaqueAereo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,28 @@
       <option name="project" value="LOCAL" />
       <updated>1690207655022</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="desafio poo dio">
+      <created>1690288519288</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690288519288</updated>
+    </task>
+    <task id="LOCAL-00014" summary="correção do desafio">
+      <created>1690288636288</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1690288636288</updated>
+    </task>
+    <task id="LOCAL-00015" summary="correção do desafio">
+      <created>1690288683142</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1690288683142</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,24 +181,26 @@
     <MESSAGE value="organiza packages da dio" />
     <MESSAGE value="estrutura de dados - pilha" />
     <MESSAGE value="cria projeto Banco" />
-    <option name="LAST_COMMIT_MESSAGE" value="cria projeto Banco" />
+    <MESSAGE value="desafio poo dio" />
+    <MESSAGE value="correção do desafio" />
+    <option name="LAST_COMMIT_MESSAGE" value="correção do desafio" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/edu/vda/dio/desafios/PedraPapelAtaqueAereo.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/edu/vda/dio/desafios/PedraPapelAtaqueAereo/PedraPapelAtaqueAereo.java</url>
+          <line>15</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/edu/vda/dio/desafios/PedraPapelAtaqueAereo.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/edu/vda/dio/desafios/PedraPapelAtaqueAereo/PedraPapelAtaqueAereo.java</url>
+          <line>13</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/edu/vda/dio/desafios/PedraPapelAtaqueAereo.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/edu/vda/dio/desafios/PedraPapelAtaqueAereo/PedraPapelAtaqueAereo.java</url>
+          <line>17</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
