@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="estrutura de dados - List">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/set/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/set/Main.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="estrutura de dados - Set">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/map/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/list/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/list/Carro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690458710663</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="estrutura de dados - Set">
+      <created>1690460575016</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1690460575016</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,7 +201,8 @@
     <MESSAGE value="correção do desafio" />
     <MESSAGE value="estrutura de dados - queue, stack, equals e hashcode" />
     <MESSAGE value="estrutura de dados - List" />
-    <option name="LAST_COMMIT_MESSAGE" value="estrutura de dados - List" />
+    <MESSAGE value="estrutura de dados - Set" />
+    <option name="LAST_COMMIT_MESSAGE" value="estrutura de dados - Set" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
