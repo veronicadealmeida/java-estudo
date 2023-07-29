@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="estrutura de dados - Set">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/estruturadedados/map/Main.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="estrutura de dados - Map">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/list/ExemploList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/list/ExemploOrdenacaoList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/VDA/workspace/estudo-java/java-estudo/src/edu/vda/fiap&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/VDA/workspace/estudo-java/java-estudo/src/edu/vda/fiap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -185,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690460575016</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="estrutura de dados - Map">
+      <created>1690462906947</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1690462906947</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -202,7 +211,8 @@
     <MESSAGE value="estrutura de dados - queue, stack, equals e hashcode" />
     <MESSAGE value="estrutura de dados - List" />
     <MESSAGE value="estrutura de dados - Set" />
-    <option name="LAST_COMMIT_MESSAGE" value="estrutura de dados - Set" />
+    <MESSAGE value="estrutura de dados - Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="estrutura de dados - Map" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
