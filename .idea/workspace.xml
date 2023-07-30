@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="Collections - List">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/set/ExemploSet.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="Collections - Set">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/map/ExemploMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/map/ExemploOrdenacaoMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -206,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690724550371</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Collections - Set">
+      <created>1690728339581</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1690728339581</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,7 +233,8 @@
     <MESSAGE value="estrutura de dados - Set" />
     <MESSAGE value="estrutura de dados - Map" />
     <MESSAGE value="Collections - List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collections - List" />
+    <MESSAGE value="Collections - Set" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections - Set" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
