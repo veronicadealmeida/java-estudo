@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="List - operações básicas">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/list/ordenacao/OrdernacaoPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/list/ordenacao/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/list/pesquisa/CatalogoLivro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/list/pesquisa/Livro.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="List - Ordenaçãp">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/set/operacoesbasicas/ConjuntoConvidados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/set/operacoesbasicas/Convidado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/set/ordenacao/CadastroProduto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/set/ordenacao/ComparteTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/set/ordenacao/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/set/pesquisa/AgendaContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/set/pesquisa/Contato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -43,21 +47,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/VDA/workspace/estudo-java/java-estudo/src/edu/vda/fiap&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/VDA/workspace/estudo-java/java-estudo/src/edu/vda/fiap",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\VDA\workspace\estudo-java\java-estudo\src\edu\vda\fiap" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="edu.vda.dio.collections.set.ordenacao" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.OrdernacaoPessoa">
+  <component name="RunManager" selected="Application.CadastroProduto">
+    <configuration name="CadastroProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.set.ordenacao.CadastroProduto" />
+      <module name="java-estudo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.vda.dio.collections.set.ordenacao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CarrinhoDeCompras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.list.operacoesbasicas.CarrinhoDeCompras" />
       <module name="java-estudo" />
@@ -84,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaTarefa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.list.operacoesbasicas.ListaTarefa" />
+    <configuration name="ConjuntoConvidados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.set.operacoesbasicas.ConjuntoConvidados" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.collections.list.operacoesbasicas.*" />
+          <option name="PATTERN" value="edu.vda.dio.collections.set.operacoesbasicas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,10 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CadastroProduto" />
+        <item itemvalue="Application.CarrinhoDeCompras" />
+        <item itemvalue="Application.ConjuntoConvidados" />
         <item itemvalue="Application.OrdernacaoPessoa" />
         <item itemvalue="Application.CatalogoLivro" />
-        <item itemvalue="Application.CarrinhoDeCompras" />
-        <item itemvalue="Application.ListaTarefa" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691368081019</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="List - Ordenaçãp">
+      <option name="closed" value="true" />
+      <created>1691405913078</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1691405913078</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -319,7 +349,8 @@
     <MESSAGE value="Collections - Set" />
     <MESSAGE value="Collections - Map" />
     <MESSAGE value="List - operações básicas" />
-    <option name="LAST_COMMIT_MESSAGE" value="List - operações básicas" />
+    <MESSAGE value="List - Ordenaçãp" />
+    <option name="LAST_COMMIT_MESSAGE" value="List - Ordenaçãp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
