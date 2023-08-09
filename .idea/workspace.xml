@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="Set - operações básicas, pesquisa e ordenação">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/collections/map/operacoesbasicas/AgendaContatos.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="Map - ordenacao">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/funcionalinterface/BinaryOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/funcionalinterface/ConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/funcionalinterface/FunctionExemple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/funcionalinterface/PredicateExemple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/funcionalinterface/SupplierExemple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +45,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/VDA/workspace/estudo-java/java-estudo/src/edu/vda/fiap",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/VDA/workspace/estudo-java/java-estudo/src/edu/vda/fiap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\VDA\workspace\estudo-java\java-estudo\src\edu\vda\fiap" />
@@ -59,13 +63,13 @@
       <recent name="edu.vda.dio.collections.set.ordenacao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AgendaContatos">
-    <configuration name="AgendaContatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.map.operacoesbasicas.AgendaContatos" />
+  <component name="RunManager" selected="Application.BinaryOperatorExample">
+    <configuration name="AgendaEventos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.map.ordenacao.AgendaEventos" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.collections.map.operacoesbasicas.*" />
+          <option name="PATTERN" value="edu.vda.dio.collections.map.ordenacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CadastroProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.set.ordenacao.CadastroProduto" />
+    <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.funcionalinterface.BinaryOperatorExample" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.collections.set.ordenacao.*" />
+          <option name="PATTERN" value="edu.vda.dio.funcionalinterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarrinhoDeCompras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.list.operacoesbasicas.CarrinhoDeCompras" />
+    <configuration name="EstoqueProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.map.pesquisa.EstoqueProduto" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.collections.list.operacoesbasicas.*" />
+          <option name="PATTERN" value="edu.vda.dio.collections.map.pesquisa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConjuntoConvidados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.set.operacoesbasicas.ConjuntoConvidados" />
+    <configuration name="FunctionExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.funcionalinterface.FunctionExemple" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.collections.set.operacoesbasicas.*" />
+          <option name="PATTERN" value="edu.vda.dio.funcionalinterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrdernacaoPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.list.ordenacao.OrdernacaoPessoa" />
+    <configuration name="PredicateExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.funcionalinterface.PredicateExemple" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.collections.list.ordenacao.*" />
+          <option name="PATTERN" value="edu.vda.dio.funcionalinterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AgendaContatos" />
-        <item itemvalue="Application.CadastroProduto" />
-        <item itemvalue="Application.CarrinhoDeCompras" />
-        <item itemvalue="Application.ConjuntoConvidados" />
-        <item itemvalue="Application.OrdernacaoPessoa" />
+        <item itemvalue="Application.BinaryOperatorExample" />
+        <item itemvalue="Application.PredicateExemple" />
+        <item itemvalue="Application.FunctionExemple" />
+        <item itemvalue="Application.AgendaEventos" />
+        <item itemvalue="Application.EstoqueProduto" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +333,31 @@
       <option name="project" value="LOCAL" />
       <updated>1691502558275</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Map - operações básicas">
+      <option name="closed" value="true" />
+      <created>1691512840360</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1691512840360</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Map - pesquisa">
+      <option name="closed" value="true" />
+      <created>1691514793126</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1691514793126</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Map - ordenacao">
+      <option name="closed" value="true" />
+      <created>1691518124172</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1691518124172</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -353,7 +381,10 @@
     <MESSAGE value="List - operações básicas" />
     <MESSAGE value="List - Ordenaçãp" />
     <MESSAGE value="Set - operações básicas, pesquisa e ordenação" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set - operações básicas, pesquisa e ordenação" />
+    <MESSAGE value="Map - operações básicas" />
+    <MESSAGE value="Map - pesquisa" />
+    <MESSAGE value="Map - ordenacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map - ordenacao" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -372,6 +403,16 @@
           <url>file://$PROJECT_DIR$/src/edu/vda/dio/desafios/PedraPapelAtaqueAereo/PedraPapelAtaqueAereo.java</url>
           <line>17</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/vda/dio/collections/map/operacoesbasicas/AgendaContatos.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/vda/dio/collections/map/operacoesbasicas/AgendaContatos.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

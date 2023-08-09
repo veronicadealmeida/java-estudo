@@ -1,0 +1,48 @@
+package edu.vda.dio.funcionalinterface;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.Consumer;
+
+/**
+ * Representa uma operação que aceita um argumento do tipo T e não retorna nenhum resultado.
+ * É utilizada principalmente para realizar ações, ou efeitos colaterias nos elementos do Stream sem mddificar, ou
+ * retornar um valor
+ */
+public class ConsumerExample {
+    public static void main(String[] args) {
+        // Criar uma lista de números inteiros
+        List<Integer> numeros = Arrays.asList(1,2,3,4,5,6,8);
+
+        // Usar o Consumer com expressão lambda para imprimir números pares
+        Consumer<Integer> imprimirNumeroPar = numero -> {
+            if (numero % 2 == 0) {
+                System.out.println(numero);
+            }
+        };
+
+       numeros.stream().forEach(imprimirNumeroPar);
+
+        // consumer
+        System.out.println("-----> consumer");
+
+        numeros.stream().forEach(new Consumer<Integer>() {
+            @Override
+            public void accept(Integer integer) {
+                if (integer % 2 == 0 ) {
+                    System.out.println(integer);
+                }
+            }
+        });
+
+        // lambda
+        System.out.println("-----> lambda");
+        numeros.forEach( n-> {
+            if (n % 2 == 0) {
+                System.out.println(n);
+            }
+        });
+
+
+    }
+}
