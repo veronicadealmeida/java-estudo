@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="Map - ordenacao">
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/funcionalinterface/BinaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/funcionalinterface/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/funcionalinterface/FunctionExemple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/funcionalinterface/PredicateExemple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/funcionalinterface/SupplierExemple.java" afterDir="false" />
+    <list default="true" id="43528045-9c58-4451-9593-f658fabb0196" name="Changes" comment="functional interface">
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/bootcampjavacomcloudaws/CalculadoraVelocidadeDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/bootcampjavacomcloudaws/CalculandoCustosAWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/bootcampjavacomcloudaws/MonitoramentoLogsAWS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/bootcampjavacomcloudaws/RegrasEKS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/bootcampjavacomcloudaws/VerificandoSenhas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/santander/CofresSeguros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/santander/Desafio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/santander/DesafioContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/santander/EquilibrandoOSaldo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/santander/HerancaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/vda/dio/desafios/santander/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +44,9 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2SuRQJxmphokltcDpKN7QjQpEx8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -63,13 +73,13 @@
       <recent name="edu.vda.dio.collections.set.ordenacao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryOperatorExample">
-    <configuration name="AgendaEventos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.map.ordenacao.AgendaEventos" />
+  <component name="RunManager" selected="Application.Desafio">
+    <configuration name="CofresSeguros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.desafios.santander.CofresSeguros" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.collections.map.ordenacao.*" />
+          <option name="PATTERN" value="edu.vda.dio.desafios.santander.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryOperatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.funcionalinterface.BinaryOperatorExample" />
+    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.desafios.santander.Desafio" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.funcionalinterface.*" />
+          <option name="PATTERN" value="edu.vda.dio.desafios.santander.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EstoqueProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.collections.map.pesquisa.EstoqueProduto" />
+    <configuration name="DesafioContaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.desafios.santander.DesafioContaBancaria" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.collections.map.pesquisa.*" />
+          <option name="PATTERN" value="edu.vda.dio.desafios.santander.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.funcionalinterface.FunctionExemple" />
+    <configuration name="HerancaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.desafios.santander.HerancaBancaria" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.funcionalinterface.*" />
+          <option name="PATTERN" value="edu.vda.dio.desafios.santander.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateExemple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.funcionalinterface.PredicateExemple" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.vda.dio.desafios.santander.Main" />
       <module name="java-estudo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.vda.dio.funcionalinterface.*" />
+          <option name="PATTERN" value="edu.vda.dio.desafios.santander.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinaryOperatorExample" />
-        <item itemvalue="Application.PredicateExemple" />
-        <item itemvalue="Application.FunctionExemple" />
-        <item itemvalue="Application.AgendaEventos" />
-        <item itemvalue="Application.EstoqueProduto" />
+        <item itemvalue="Application.Desafio" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CofresSeguros" />
+        <item itemvalue="Application.HerancaBancaria" />
+        <item itemvalue="Application.DesafioContaBancaria" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691518124172</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="functional interface">
+      <option name="closed" value="true" />
+      <created>1691607999810</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1691607999811</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -384,7 +402,8 @@
     <MESSAGE value="Map - operações básicas" />
     <MESSAGE value="Map - pesquisa" />
     <MESSAGE value="Map - ordenacao" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map - ordenacao" />
+    <MESSAGE value="functional interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="functional interface" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -413,6 +432,15 @@
           <url>file://$PROJECT_DIR$/src/edu/vda/dio/collections/map/operacoesbasicas/AgendaContatos.java</url>
           <line>42</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/edu/vda/dio/desafios/santander/DesafioContaBancaria.java</url>
+          <line>7</line>
+          <properties class="edu.vda.dio.desafios.santander.DesafioContaBancaria" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
